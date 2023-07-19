@@ -7,3 +7,6 @@ Quittosave is a program designed to visually depict the consumption of cigarette
 - Wasted Money Visualization: By inputting the number of cigarettes smoked daily and their cost, users can see the cumulative amount of money spent on cigarettes over time. This visual representation serves as a reminder of the financial impact smoking has on their budget.
 
 - Investment Comparison: Quittosave takes the cumulative amount of money wasted on cigarettes and calculates how much it could have grown if invested in the MSCI World index. This feature showcases the potential financial gains that could be achieved by redirecting funds towards investments.
+
+## Contributions
+Contributions to Quittosave are welcome! If you find a bug or have suggestions for enhancements, please submit an issue or create a pull request. We appreciate your feedback and contributions to make Quittosave even better.
